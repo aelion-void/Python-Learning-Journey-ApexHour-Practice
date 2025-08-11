@@ -4,13 +4,12 @@ This repository contains all my Python practice code from the **ApexHour Learnin
 
 ## 📚 Contents
 1) Basic - contains variables , creating a function .
+2) Conditionals - contains mathematical operetors , if-elif-else conditions , match data type .
 
 
 
 ## 🚀 Learning Resources Used
 - **CS50’s Python Programming** – YouTube course
-- **W3Schools** – Topic reference & revision
-- **GeeksforGeeks** – In-depth explanations
 - **ChatGPT** – On-demand coding mentor and project partner
 
 
