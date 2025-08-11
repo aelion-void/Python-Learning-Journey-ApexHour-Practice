@@ -65,7 +65,7 @@ num()
 
 #lets try new data type called match
 
-name = input('Enter the first name from Great houses of westeros in Game Of Thrones : ')
+name = input('Enter the first name of a character from Great houses of westeros in Game Of Thrones : ')
 
 match name :
     case "Daenerys" | "Viserys" | "Aerys II" | "Rhaegar" | "Rhaella" | "Rhaenys" |"Aegon" |"Jhonsnow"  :
@@ -100,4 +100,5 @@ match name :
         print('Not in major house of GOT or does not exist . ') 
 
 print('Come back next time !')
+
 
